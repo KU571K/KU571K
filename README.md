@@ -18,6 +18,6 @@
 <div>
 <h1>Contacts:</h1>
   <ul>
-    <li>Telegram — <a>@StepFun</a></li>
+    <li>Telegram — <a href='https://t.me/StepFun'>@StepFun</a></li>
   </ul>
 </div>
