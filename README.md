@@ -14,3 +14,10 @@
     <li>Healthcare</li>
   </ul>
 </div>
+
+<div>
+<h1>Contacts:</h1>
+  <ul>
+    <li>Telegram — <a>@StepFun</a></li>
+  </ul>
+</div>
